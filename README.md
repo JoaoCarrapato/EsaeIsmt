@@ -1,4 +1,4 @@
-# EsaeIsmt
+# Esae/Ismt
 Descrição:
 
 Projecto desenvolvido no ambito da Unidade Curricular de Programação 3, do 2º ano da licenciatura de Multimédia que consiste em fazer uma aplicação hibrida(Android, iOs e Windows Phone) do Escola Superior de Altos Estudos(ESAE) do Instituto Superior Miguel Torga(ISMT).
